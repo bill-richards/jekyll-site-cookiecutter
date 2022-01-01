@@ -2,8 +2,9 @@
 
 ## Installation
 
-### Requirements
+### Prerequisites
 
+- Python
 - cookiecutter
   ```pip
   pip install cookiecutter
