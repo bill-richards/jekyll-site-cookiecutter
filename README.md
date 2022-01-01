@@ -1,4 +1,4 @@
-# new-jekyll-site-cookie-cutter
+# new-jekyll-site-cookiecutter
 
 ## Installation
 
