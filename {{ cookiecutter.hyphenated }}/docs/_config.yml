@@ -23,12 +23,12 @@ baseurl: {{ cookiecutter.subpath }}    # the subpath of your site, e.g. /blog. L
 url: https://{{ cookiecutter.domain }} # ususally this will be https://user-name.github.io
 
 title: "{{ cookiecutter.site_title }}"
-author: {{ cookiecutter.author_name }}
-email: {{ cookiecutter.author_email }}
+author: {{ cookiecutter.author }}
+email: {{ cookiecutter.email }}
 description: > 
   {{ cookiecutter.site_description }}
 
-twitter_username: {{ cookiecutter.author_twitter }} # do not include the @ symbol
+twitter_username: {{ cookiecutter.twitter }} # do not include the @ symbol
 github_username:  {{ cookiecutter.github_user }} # do not include the @ symbol
 
 # Build settings
