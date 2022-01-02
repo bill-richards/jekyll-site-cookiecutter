@@ -1,15 +1,15 @@
 {
-  "repository_name": "",
-  "github_user": "bill-richards",
-  "author_name": "Bill Richards",
-  "author_email": "bill@greyskin.co.uk",
-  "author_twitter": "not_a_whisper",
+  "repository_name": "the name of your repository",
+  "github_user": "your github it",
+  "author": "your name here",
+  "email": "your.email@here",
+  "twitter": "your_twitter_id",
 
   "hyphenated": "{{ '-'.join(cookiecutter['repository_name'].lower().split()).replace('_', '-') }}",
   "_bracket": "{",
 
-  "site_description": "This is just a test",
-  "site_title": "Something Wicked This Way Came",
+  "site_description": "Brief site description",
+  "site_title": "Your site title",
   "domain": "{{ cookiecutter.github_user }}.github.io",
   "subpath": "/{{ cookiecutter.hyphenated }}",
   "_copy_without_render": [
