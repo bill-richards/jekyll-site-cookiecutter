@@ -1,17 +1,20 @@
 {
   "repository_name": "the name of your repository",
-  "github_user": "your github it",
+  "github_user": "your github id",
   "author": "your name here",
   "email": "your.email@here",
   "twitter": "your_twitter_id",
 
   "hyphenated": "{{ '-'.join(cookiecutter['repository_name'].lower().split()).replace('_', '-') }}",
-  "_bracket": "{",
+
+  "domain": "{{ cookiecutter.github_user }}.github.io",
+  "subpath": "/{{ cookiecutter.hyphenated }}",
 
   "site_description": "Brief site description",
   "site_title": "Your site title",
-  "domain": "{{ cookiecutter.github_user }}.github.io",
-  "subpath": "/{{ cookiecutter.hyphenated }}",
+  "site_theme": "minima",
+
+  "_bracket": "{",
   "_copy_without_render": [
     "docs/*.md",
     "docs/*.markdown"

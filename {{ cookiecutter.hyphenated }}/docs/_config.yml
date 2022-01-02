@@ -32,7 +32,9 @@ twitter_username: {{ cookiecutter.twitter }} # do not include the @ symbol
 github_username:  {{ cookiecutter.github_user }} # do not include the @ symbol
 
 # Build settings
-theme: minima
+theme: {{ cookiecutter.site_theme }}
+
+#theme: minima
 #theme: jekyll-theme-dinky
 #theme: jekyll-theme-merlot
 #theme: jekyll-theme-hacker
