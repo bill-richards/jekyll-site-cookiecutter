@@ -16,7 +16,7 @@ I'm doing this all on LINUX, and if you have any sense, you'll be doing that too
   
   do that like this `gem install bundler jekyll`
 
-### How you can get it (it's really easy)
+### How you can get it ... <mark>(it's really easy)</mark>
 
 1. Get the source code
 
@@ -49,7 +49,7 @@ bundle install
 ```
  3. Open up the code in your IDE of choice (or even in vi, notepad, whatever is your poison, you strange and bizarre individual).
 
-### How you can use it (this is also really easy)
+### How you can use it ... <mark>(this is also really easy)</mark>
 
  4. Run the website using [Jekyll](https://jekyllrb.com/)
 
@@ -58,7 +58,7 @@ bundle install
 [sudo] bundle exec jekyll serve --livereload
 ```
 
-### How you can change it (you probably guessed it already ... this is super easy too)
+### How you can change it ... <mark>(yep ... this is super easy too)</mark>
 
 - If you want to make changes to the _Site Title_, for example, make that change [here](docs/_config.yml)
 - All of the site files live in the `/docs` directory 
