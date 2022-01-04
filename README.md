@@ -1,4 +1,4 @@
-# [_New Jekyll Site Cookiecutter_](https://github.com/bill-richards/new-jekyll-site-cookiecutter/blob/develop/README.md)
+# [_Jekyll Site Cookiecutter_](https://github.com/bill-richards/jekyll-site-cookiecutter/blob/develop/README.md)
 
 ## What's it for
 
