@@ -56,7 +56,7 @@ bundle install
 
 You do not need to invoke Jekyll on the server; it will be invoked every time a change is made to the containing repository.
 
-### Don't repeat yourself (DRY)
+## Don't repeat yourself (DRY)
 
 Did I mention that you should out the repository's documentation [here](https://{{ cookiecutter.github_user }}{{ cookiecutter.subpath }}), and also, it's a tale and one half ...
 
