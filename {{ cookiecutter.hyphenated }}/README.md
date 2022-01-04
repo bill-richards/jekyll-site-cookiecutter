@@ -60,3 +60,6 @@ You do not need to invoke Jekyll on the server; it will be invoked every time a 
 
 Did I mention that you should out the repository's documentation [here](https://{{ cookiecutter.github_user }}.github.io{{ cookiecutter.subpath }}), and also, it's a tale and one half ...
 
+## Other important stuff
+
+> This repostory was generated from the [bill-richards/jekyll-site-template](https://github.com/bill-richards/jekyll-site-template), a [_template_]((https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/creating-a-repository-from-a-template)) repository, which itself uses [bill-richards/jekyll-site-cookiecutter](https://github.com/bill-richards/jekyll-site-cookiecutter), a _cookiecutter_ repository. Go check them out to see how they work together, it's a pretty cool concept -and sadly I cannot take the credit for it, I was inspired by [this](https://github.com/simonw/python-lib-template-repository) repository by [simonw](https://github.com/simonw)
