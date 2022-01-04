@@ -1,6 +1,6 @@
 # [_{{ cookiecutter.repository_name }}_](https://github.com/{{ cookiecutter.github_user }}{{ cookiecutter.subpath }})
 
-Check out the repository's documentation [here](https://{{ cookiecutter.github_user }}{{ cookiecutter.subpath }}), it's a tale and one half ...
+Check out the repository's documentation [here](https://{{ cookiecutter.github_user }}.github.io{{ cookiecutter.subpath }}), it's a tale and one half ...
 
 ## Developing stuff
 
@@ -58,5 +58,5 @@ You do not need to invoke Jekyll on the server; it will be invoked every time a 
 
 ## Don't repeat yourself (DRY)
 
-Did I mention that you should out the repository's documentation [here](https://{{ cookiecutter.github_user }}{{ cookiecutter.subpath }}), and also, it's a tale and one half ...
+Did I mention that you should out the repository's documentation [here](https://{{ cookiecutter.github_user }}.github.io{{ cookiecutter.subpath }}), and also, it's a tale and one half ...
 
