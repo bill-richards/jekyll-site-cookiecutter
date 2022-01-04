@@ -11,14 +11,14 @@ I'm doing this all on LINUX, and if you have any sense, you'll be doing that too
 - Ruby 
 
   get it installed like this `sudo apt-get install ruby`
+  
 - jekyll
   
   do that like this `gem install bundler jekyll`
 
-### How you'll use it
+### How you can get it (it's really easy)
 
 1. Get the source code
-   > did you know, that using most modern IDEs, you can also clone the repository using a Git plugin/extension/connector (usually)
 
 ```cmd
 # using HTTPS
@@ -35,6 +35,10 @@ git@github.com:{{ cookiecutter.github_user }}{{ cookiecutter.subpath }}.git
 gh repo clone {{ cookiecutter.github_user }}{{ cookiecutter.subpath }}
 ```
 
+   > did you know, that using most modern IDEs,<br/> 
+   > you can also clone the repository using a Git plugin/extension/connector (usually)
+
+
 2. Prepare your environment
 
 ```cmd
@@ -45,6 +49,8 @@ bundle install
 ```
  3. Open up the code in your IDE of choice (or even in vi, notepad, whatever is your poison, you strange and bizarre individual).
 
+### How you can use it (this is also really easy)
+
  4. Run the website using [Jekyll](https://jekyllrb.com/)
 
 ```cmd
@@ -52,9 +58,11 @@ bundle install
 [sudo] bundle exec jekyll serve --livereload
 ```
 
-### Making changes is easy
+### How you can change it (you probably guessed it already ... this is super easy too)
 
-If you want to make changes to the _Site Title_, for example, make that change [here](docs/_config.yml)
+- If you want to make changes to the _Site Title_, for example, make that change [here](docs/_config.yml)
+- All of the site files live in the `/docs` directory 
+- You can add D/Html, JavaScript, Markdown
 
 #### _**Nota bene**_
 
