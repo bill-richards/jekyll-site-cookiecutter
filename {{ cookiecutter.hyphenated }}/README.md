@@ -1,4 +1,4 @@
-# [_A Github Action Adventure_](https://github.com/bill-richards/a-github-action-adventure)
+# [_A Github Action Adventure_](https://github.com/{{ cookiecutter.github_user }}{{ cookiecutter.subpath }})
 
 Check out the repository's documentation [here](https://{{ cookiecutter.github_user }}{{ cookiecutter.subpath }}), it's a tale and one half ...
 
