@@ -25,4 +25,4 @@ cookiecutter bill-richards/new-jekyll-site-cookiecutter
 
 you will be presented with a series of prompts asking for the values to use when applying the template.
 
-Ideally however, this _cookicutter_ will be called by the [Jekyll Site Template](https://github.com/bill-richards/jekyll-site-template).
+Ideally however, this _cookicutter_ will be called by the [_Jekyll Site Template_](https://github.com/bill-richards/jekyll-site-template).
