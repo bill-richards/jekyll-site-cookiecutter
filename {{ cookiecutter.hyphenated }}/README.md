@@ -52,7 +52,7 @@ bundle install
 [sudo] bundle exec jekyll serve --livereload
 ```
 
-### Making changes
+### Making changes is easy
 
 If you want to make changes to the _Site Title_, for example, make that change [here](docs/_config.yml)
 
