@@ -52,6 +52,10 @@ bundle install
 [sudo] bundle exec jekyll serve --livereload
 ```
 
+### Making changes
+
+If you want to make changes to the _Site Title_, for example, make that change [here](docs/_config.yml)
+
 #### _**Nota bene**_
 
 You do not need to invoke Jekyll on the server; it will be invoked every time a change is made to the containing repository.
